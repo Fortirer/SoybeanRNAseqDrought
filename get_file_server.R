@@ -1,0 +1,1 @@
+scp -r janaina@143.107.247.188:/srv/database/data/NGS_raw_data/transcriptome/rnaSeq_lafieco/soja/analysis/190613_NB501279_0079_AHKWLYBGX7/190613_NB501279_0079_AHKWLYBGX7_fastq "TOSHIBA EXT"
